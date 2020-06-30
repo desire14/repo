@@ -1,3 +1,3 @@
 # repo
 add info
-sub infojjjj
+sub info
